@@ -1,6 +1,7 @@
 {
   "name": "my-first-app",
   "version": "0.1.0",
+
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
@@ -21,3 +22,4 @@
     "typescript": "^3.0.1"
   }
 }
+
